@@ -1,0 +1,19 @@
+{
+  "name": "ml-slider-lazy-load",
+  "version": "1.0.0",
+  "description": "Meta Slider に遅延読み込み機能を追加します。",
+  "main": "ml-slider-lazy-load.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shugomatsuzawa/MetaSlider_Lazy-Load.git"
+  },
+  "author": "Shugo Matsuzawa",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/shugomatsuzawa/MetaSlider_Lazy-Load/issues"
+  },
+  "homepage": "https://github.com/shugomatsuzawa/MetaSlider_Lazy-Load#readme",
+  "dependencies": {
+    "lazyload": "^2.0.0-rc.2"
+  }
+}
